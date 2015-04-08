@@ -1,0 +1,35 @@
+1)Indica cuál es un problema de la arquitectura del sistema:
+
+a) Se pone en marcha sin cortafuegos adecuado.
+b) Modificaciones directamente en el sevidor en producción.
+c)Riesgo de seguridad.
+d)Todas las anteriores son correctas.
+
+Respuesta correcta: d
+
+2)Indica cuál es un problema con la disponibilidad:
+
+a)Las actualizaciones del SO, no afectan al rendimiento global.
+b)Conforme los usuarios usan un sistema, los errores derivados de programación no van apareciendo.
+c)Los cambios van directamente al servidor en producción.
+d)Ninguna de las anteriores es correcta.
+
+Respuesta correcta: c
+
+3)¿Qué es la escalabilidad?
+
+a) Capacidad para dar soporte a un número creciente de usuarios.
+b) Capacidad para dar soporte a un número decreciente de usuarios.
+c) Capacidad para dar soporte a un número concreto de usuarios.
+d)Ninguna de las anteriores es correcta.
+
+Respuesta correcta: a
+
+4) ¿Cuál es la solución o soluciones de los problemas de disponibilidad?
+
+a) Trabajo extra + coste de adquisición
+b)Comprar una nueva máquina
+c) Máquina servidor replicada
+d)Ninguna es correcta
+
+Respuesta correcta: c

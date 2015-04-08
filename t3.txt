@@ -1,0 +1,36 @@
+﻿1) ¿Qué requiere la configuración de red?
+
+a) ELegir modelo de red más adecuado
+b) Elegir el hardware
+c) Definir puntos de entrada a las diferentes subredes
+d) Todas las anteriores son correctas
+
+Respuesta correcta: d
+
+2) ¿Cómo es la configuración sin DMZ?
+
+a) Tanto servidores de la granja web como otras máquinas están conectadas a la misma subred
+b) Los servidores expuestos deben aislarse con cortafuegos
+c) ancho de banda de la red comporativa compartido
+d)  Se basa en aislar todos los servidores con cortafuegos
+
+Respuesta correcta: a
+
+3) ¿Qué significa Single-NIC y Multi-NIC?
+
+a) Describen piezas de una máquina
+b) Programas de bases de datos
+c) Single-NIC es un servidor conectado sólo a la subred frontal,aislado de la trasera. Multi-NIC está conectado a la frontal
+y trasera
+d)Ninguna de las anteriores es correcta
+
+Respuesta correcta: d
+
+4) ¿Desde dónde son accesibles los servidores conectados a la subred trasera?
+
+a) Desde el correo.
+b)No pueden ser accesibles
+c) Desde subredes seguras y controladas
+d)Ninguna es correcta
+
+Respuesta correcta: c

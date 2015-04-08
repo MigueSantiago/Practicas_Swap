@@ -1,0 +1,36 @@
+1) ¿Cómo deberían ser los tiempos de no-disponibilidad?
+
+a)Sólo debería haber "tiempos de no-disponibilidad programados" lo más largos posibles.
+b)Sólo debería haber "tiempos de no-disponibilidad programados" lo más cortos posibles.
+c)Sólo deberìa haber tiempos de no-disponibilidad no programados.
+d)Ninguna de las anteriores es correcta.
+
+Respuesta correcta: b.
+
+2) ¿Qué ocurre cuando un sistema experimenta estrés?
+
+a)Se bloquea y no funciona
+b)Su capacidad para dar servicio se ve afectada
+c)No ocurre nada
+d)Tiene riesgo de romperse
+
+Respuesta correcta: b.
+
+3) ¿Qué es la escalabilidad?
+
+a) Capacidad de un sistema de manejar la carga y el esfuerzo para adaptarse al nuevo nivel de carga.
+b)Capacidad de un sistema para adaptarse a una nueva carga.
+c) Capacidad del sistema para funcionar
+d)Ninguna de las anteriores es correcta
+
+Respuesta correcta: a.
+
+4) ¿Qué se debe configurar para escalar un sitio web?
+
+a) aplicaciones, almacenamiento y máquinas como servidores web.
+b) sistema, rendimiento, fiabilidad.
+c) Mantenimiento,seguridad.
+d)Ninguna de las anteriores es correcta.
+
+Repuesta correcta: a.
+
