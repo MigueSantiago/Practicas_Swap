@@ -1,0 +1,34 @@
+﻿1) ¿Cuál es el primer paso cuando se teclea una URL en el navegador?
+
+a) El servidor devuelve la página HTML completa
+b) El navegador muestra la información
+c)Ya con la IP,el navegador contacta por TCP
+d)El navegador resuelve el nonbre del sitio web.
+
+Respuesta correcta: d
+
+2) ¿Qué es VIP?
+
+a) No comprobar si una máquina está disponible
+b) Manejar protocolos de alto nivel
+c) Suele ser la IP del balanceador de carga
+d) Ninguna de las anteriores es correcta
+
+Respuesta correcta: c
+
+3) ¿Qué es la persistencia?
+
+a) Si un dispositivo falla, otro pasa a hacer su función
+b) Tratar de evitar la degradación del servicio
+c) Mantener el tráfico de un usuario dirigido al servidor que comenzó a atenderlo
+d) Se puede implementar con ICMP a los servidores finales
+
+Respuesta correcta: c
+
+4) ¿Cuál de las siguientes es una solución basada en la disponibilidad y escalabilidad?
+a) Balanaceo de carga global
+b) Balanaceo de carga en cortafuegos
+c) Clustering
+d) NAT
+
+Respuesta correcta: c
