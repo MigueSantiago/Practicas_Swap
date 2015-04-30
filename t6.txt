@@ -1,0 +1,31 @@
+1) ¿Cuáles son los objetivos de seguridad?
+a) Confidencialidad e integridad
+b)Confidencialidad,integridad,redundancia
+c)Disponibilidad,Integridad,Confidecialidad
+d)Disponibilidad,Confidencialidad
+
+Respuesta correcta: c
+
+2)¿En qué niveles se aplican diferentes politicas de seguridad?
+a)Nivel físico,a nivel de red, a nivel administrador
+b)Nivel de red,nivel administrador
+c)Cuentas de servicios,nivel administrador
+d)Nivel físico,nivel de red,nivel administrador,cuentas de servicios.
+
+Respuesta correcta: d
+
+3)¿Cuál o cuales son correctas?
+a)Configurar el cortafuegos completamente independiente del resto de recursos.
+b)La máquina cortafuegos puede ejecutar otro software junto al cortafuegos.
+c)Permitir acceso desde internet para administrar el cortafuegos.
+d)Ninguna de las anteriores es correcta.
+
+Respuesta correcta: a
+
+4)¿Qué accion o acciones se toman para asegurar un servidor?
+a)Eliminar servicios no necesarios.
+b)Instalar drivers aunque no sean necesarios.
+c)No usar filtros TCP/IP
+d)Todas las anteriores son correctas.
+
+Respuesta correcta: a
