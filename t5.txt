@@ -1,0 +1,30 @@
+1) Para el tráfico UDP:
+a) el número de conexiones concurrentes no es un factor que afecte, ya que se trata de un protocolo "de conexión".
+b)el número de conexiones concurrentes no es un factor que afecte, ya que se trata de un protocolo "de respuesta".
+c)el número de conexiones concurrentes no es un factor que afecte, ya que se trata de un protocolo "sin conexión".
+d)Ninguna es correcta.
+
+Respuesta correcta: c
+
+2)¿Cuál es el orden de métricas importantes en HTTP?
+a)Conexiones por segundo,rendimiento,total de conexiones concurrentes.
+b)Rendimiento,conexiones por segundo,total conexiones concurentes,
+c)Conexiones por segundo,total conexiones concurrentes,rendimiento.
+d)Total de conexiones concurrentes,conexiones por segundo,rendimiento.
+
+Repuesta correcta: a
+
+3)¿Cuál es el orden de métricas importantes en FTP?
+a)Conexiones por segundo,rendimiento,total de conexiones concurrentes.
+b)Rendimiento,conexiones por segundo,total conexiones concurentes,
+c)Conexiones por segundo,total conexiones concurrentes,rendimiento.
+d)Rendimiento,total de conexiones concurrentes,conexiones por segundo
+Repuesta correcta: d
+
+4)¿Y para una tienda web?
+a)Rendimiento,total de conexiones concurrentes,conexiones por segundo
+b)Rendimiento,conexiones por segundo,total conexiones concurentes,
+c)Conexiones por segundo,total conexiones concurrentes,rendimiento.
+d)Total de conexiones concurrentes,conexiones por segundo,rendimiento.
+
+Repuesta correcta:d
