@@ -1,0 +1,35 @@
+1) ¿Como podemos evitar latencia?
+
+a) Usando mayor ram.
+b) Usando una buena CPU.
+c) Reemplazando el servidor.
+d) Usando discos solidos.
+
+Respuesta correcta:d.
+
+2) ¿Cual es la velocidad de los discos SATA?
+
+a) 33,66,100,133 y 166 MB/s
+b)160,320,640 MB/s
+c)150,300,600 MB/s
+d)300,500,700,1000 MB/s
+
+Respuesta correcta: c.
+
+3) ¿Cuál de los siguiente es un hardware de Dell?
+
+a) Mellanox M3601Q InfiniBand 
+b) ProLiant DL385 G7 6282SE
+c)X5520 G2 - NAS server - 32 TB  
+d) BladeCenter HS22 Xeon 6C X5650 SAS 
+
+Respuesta correcta: a.
+
+4) ¿Que es FreeBSD?
+
+a) Un cortafuegos para servidores.
+b) El nombre de un componente hardware de Dell.
+c) Un SO para servidores.
+d) Un balanceador de carga.
+
+Respuesta correcta: c.
