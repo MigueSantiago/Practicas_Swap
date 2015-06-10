@@ -1,0 +1,34 @@
+﻿1) Cual o cuales son un posible problema de realizar la replicación y repartir la
+carga:
+
+a) coste de espacio.	
+b) rutinas de adaptación
+c)coste de nuevos servidores y almacenamiento.
+d)ninguna es correcta.
+
+Respuesta correcta: c
+
+2) ¿Que es segmentar una BD?
+
+a) dividir la BD global en varias secciones relativas.
+b)hacer división lógica de la BD.
+c) mantener integridad entre datos.
+d) todas son correctas.
+
+Respuesta correcta: b.
+
+3) ¿Cuál es el segundo elemento que más comunmente falla en hardware?
+
+a) Fuentes de alimentación.
+b) Conexiones inalambricas.
+c)Los discos.
+d)Todos.
+
+Respuesta correcta: c.
+
+4) Cuál es la complejidad del RAID1:
+
+a) Conjunto dividido.
+b)Conjunto dividido con paridad distribuida.
+c)Conjunto dividido con paridad distribuida en espejo.
+d)Conjunto en espejo.
